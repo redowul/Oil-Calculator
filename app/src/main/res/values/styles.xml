@@ -1,0 +1,20 @@
+<resources>
+    <style name="OilCalculator" parent="android:Theme.Light" />
+
+    <style name="buttonStyle" parent="android:style/Widget.Button">
+        <item name="android:width">125dp</item>
+        <item name="android:height">50dp</item>
+        <item name="android:textColor">@color/almost_black</item>
+        <item name="android:background">@drawable/button_selector</item>
+    </style>
+
+    <style name="textViewStyle" parent="android:style/Widget.TextView">
+        <item name="android:minHeight">4dip</item>
+        <item name="android:thumbOffset">8dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:textColor">@color/eggshell</item>
+        <item name="android:background">@color/almost_black</item>
+        <item name="android:padding">@dimen/padding</item>
+        <item name="android:layout_margin">@dimen/layout_margin</item>
+    </style>
+</resources>

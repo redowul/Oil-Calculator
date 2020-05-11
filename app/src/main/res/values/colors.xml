@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="red" type="color">#FFFF4444</item>
+    <item name="light_blue" type="color">#34bdeb</item>
+    <item name="dark_blue" type="color">#16519e</item>
+    <item name="almost_black" type="color">#FF302533</item>
+    <item name="eggshell" type="color">#FFEEEAEE</item>
+</resources>
