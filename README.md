@@ -1,6 +1,6 @@
 ## Oil Calculator - Measure oil usage over time (Java / Android)
 
-This is a modified version of [AndroidSSH.](https://github.com/jonghough/AndroidSSH) 
+This is a modified version of [AndroidSSH](https://github.com/jonghough/AndroidSSH) 
 that I'm using to enable a SSH connection between the raspberry pi that is acting as my server. 
 
 ## How to use -- Oil Calculator
